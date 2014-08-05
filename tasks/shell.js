@@ -12,7 +12,7 @@ module.exports = function( grunt ) {
 
     var procs = {};
 
-    grunt.registerMultiTask( 'shell', 'Run shell commands', function() {
+    grunt.registerMultiTask( 'asyncShell', 'Run shell commands', function() {
 
         var cp = require('child_process');
         var proc;
