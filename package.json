@@ -1,5 +1,5 @@
 {
-  "name": "grunt-shell-spawn",
+  "name": "grunt-shell-spawn-modified",
   "version": "0.3.0",
   "description": "Grunt task to run shell commands",
   "keywords": [

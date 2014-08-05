@@ -1,4 +1,4 @@
-# grunt-shell-spawn
+# grunt-shell-spawn-modified
 
 > A fork on [sindresorhus][1]'s [grunt-shell][2] ***with support for background processes***.
 >  
